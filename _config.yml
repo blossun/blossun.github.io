@@ -291,3 +291,16 @@ defaults:
       comments: false
       share: true
       related: false
+
+  # sidebar
+  - scope:
+      path: ""
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        #title: "Categories"
+        nav: sidebar-index
