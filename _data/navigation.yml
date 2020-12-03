@@ -4,8 +4,6 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "TIL"
-    url: /categories/til/
   - title: "About"
     url: /about/ # 외부 주소 또는 permlink
   # - title: "Sample Posts"
@@ -25,4 +23,4 @@ sidebar-index:
   - title: PROJECT
     children:
       - title: "Issue Tracker"
-        url: /categories/#project
+        url: /categories/project/
