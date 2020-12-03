@@ -1,6 +1,6 @@
 ---
-title: "github 블로그 시작하기"
-excerpt: "Project 진행 로그와 TIL을 기록할 예정이다."
+title: "TIL 기록 시작"
+excerpt: "Project 진행 로그와 TIL을 기록하기 위해 블로그 개설"
 
 categories:
   - TIL
