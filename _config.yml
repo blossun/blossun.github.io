@@ -99,7 +99,7 @@ author:
   location         : "Seoul, Korea"
   email            :
   links:
-    - label: "blossunn@gmail.com"
+    - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:blossunn@gmail.com
     - label: "GitHub"

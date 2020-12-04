@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: TIL
 ---
 
-오늘도 나는 배우는 중
+오늘도 배우는 중
