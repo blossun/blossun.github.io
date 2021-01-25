@@ -28,3 +28,5 @@ sidebar-index:
     children:
       - title: "스프링기반 REST API 개발"
         url: /categories/spring/rest-api
+      - title: "스프링 부트 개념과 활용"
+        url: /categories/spring/concepts-utilization
