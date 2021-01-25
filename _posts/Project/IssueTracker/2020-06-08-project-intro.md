@@ -5,9 +5,10 @@ toc: true
 toc_sticky: true
 
 categories:
-  - PROJECT
+  - PROJECT/issueTracker
 tags:
   - PROJECT
+  - issueTracker
 ---
 
 * [저장소](https://github.com/codesquad-member-2020/issue-tracker-09)

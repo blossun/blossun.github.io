@@ -16,11 +16,11 @@ main:
 sidebar-index:
   - title: TIL
     children:
+      - title: "2021"
+        url: /categories/til/2021/
       - title: "2020"
-        url: /categories/til/
-      #- title: "2021"
-      #  url: /categories/til/2021/
+        url: /categories/til/2020/
   - title: PROJECT
     children:
       - title: "Issue Tracker"
-        url: /categories/project/
+        url: /categories/project/issuetracker

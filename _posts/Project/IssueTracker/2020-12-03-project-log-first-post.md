@@ -3,7 +3,7 @@ title: "프로젝트 진행 로그 기록"
 excerpt: "Project를 하면서 학습한 내용을 기록"
 
 categories:
-  - PROJECT
+  - PROJECT/issueTracker
 tags:
   - PROJECT
 ---

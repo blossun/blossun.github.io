@@ -3,7 +3,7 @@ title: "TIL 기록 시작"
 excerpt: "Project 진행 로그와 TIL을 기록하기 위해 블로그 개설"
 
 categories:
-  - TIL
+  - TIL/2020
 tags:
   - TIL
 ---
