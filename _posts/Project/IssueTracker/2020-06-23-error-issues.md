@@ -69,7 +69,7 @@ public interface IssueRepository extends JpaRepository<Issue, Long> {
 
 ## error - 3
 
-![image-20200616012707181](../../../assets/images/PROJECT/issue_tracker/007S8ZIlgy1gftfucubdmj31gw0aewqn.jpg)
+![image-20200616012707181](/assets/images/PROJECT/issue_tracker/007S8ZIlgy1gftfucubdmj31gw0aewqn.jpg)
 
 
 1. 환경변수명이 불일치 했었음
@@ -121,13 +121,13 @@ public interface IssueRepository extends JpaRepository<Issue, Long> {
 
 ## error - 4 : **★ JWT Long 타입 변환 에러**
 
-![스크린샷 2020-06-16 오전 2.37.32](../../../assets/images/PROJECT/issue_tracker/007S8ZIlgy1gfti3uhte5j31ct0u0135.jpg)
+![스크린샷 2020-06-16 오전 2.37.32](/assets/images/PROJECT/issue_tracker/007S8ZIlgy1gfti3uhte5j31ct0u0135.jpg)
 
 
 
 	JWT 토큰을 넣고 요청을 보내면 다음과 같이 500 에러가 발생했다.
 
-![스크린샷 2020-06-16 오전 2.46.10](../../../assets/images/PROJECT/issue_tracker/0081Kckwgy1glb01shwcyj319t0u07at.jpg)
+![스크린샷 2020-06-16 오전 2.46.10](/assets/images/PROJECT/issue_tracker/0081Kckwgy1glb01shwcyj319t0u07at.jpg)
 
 
 > **참고**
@@ -155,7 +155,7 @@ Long socialId = claims.get("socialId", Long.class);
 
 정상적으로 동작되는 것 확인
 
-![스크린샷 2020-06-16 오전 2.46.10](../../../assets/images/PROJECT/issue_tracker/007S8ZIlgy1gfti5x3806j30zn0u0jyy.jpg)
+![스크린샷 2020-06-16 오전 2.46.10](/assets/images/PROJECT/issue_tracker/007S8ZIlgy1gfti5x3806j30zn0u0jyy.jpg)
 
 
 
@@ -171,5 +171,5 @@ hotfix: jwt 파싱 에러 수정
 해결
 잘 받아와진다.
 
-![스크린샷 2020-06-16 오후 1.51.42](../../../assets/images/PROJECT/issue_tracker/007S8ZIlgy1gfu1eia0s1j30w70u07e9.jpg)
+![스크린샷 2020-06-16 오후 1.51.42](/assets/images/PROJECT/issue_tracker/007S8ZIlgy1gfu1eia0s1j30w70u07e9.jpg)
 
