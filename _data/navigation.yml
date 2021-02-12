@@ -30,3 +30,5 @@ sidebar-index:
         url: /categories/spring/rest-api
       - title: "스프링 부트 개념과 활용"
         url: /categories/spring/concepts-utilization
+      - title: "스프링 프레임워크 핵심 기술"
+        url: /categories/spring/core-technology
