@@ -34,5 +34,7 @@ sidebar-index:
         url: /categories/spring/core-technology
   - title: INFRA
     children:
+      - title: "Kafka"
+        url: /categories/infra/kafka
       - title: "Kubernetes"
         url: /categories/infra/kubernetes
