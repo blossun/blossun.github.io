@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 categories:
-  - PROJECT/issueTracker
+  - PROJECT/issuetracker
 tags:
   - PROJECT
   - Error
