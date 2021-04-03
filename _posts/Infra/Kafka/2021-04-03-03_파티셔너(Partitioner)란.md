@@ -22,7 +22,7 @@ tags:
 
 파티셔너는 데이터를 어떤 파티션에 넣을지 결정하는 역할을 한다.
 
-<img src="/assets/images/infra/kafka/image-20210402212810631.png" alt="image-20210402212810631" style="zoom: 25%;" />
+<img src="/assets/images/INFRA/kafka/image-20210402212810631.png" alt="image-20210402212810631" style="zoom: 25%;" />
 
 
 
@@ -40,7 +40,7 @@ tags:
 
    이 해시값을 기준으로 어느 파티션으로 들어갈지 정해진다.
 
-   <img src="/assets/images/infra/kafka/image-20210402213214503.png" alt="image-20210402213214503" style="zoom:25%;" />
+   <img src="/assets/images/INFRA/kafka/image-20210402213214503.png" alt="image-20210402213214503" style="zoom:25%;" />
 
    토픽에 파티션이 2개가 있는 경우, 파티셔너의 해시로직에 의해서 키값에 따라 다른 파티션에 들어가게 된다.
 
@@ -50,7 +50,7 @@ tags:
 
 ​			파티션 한 개의 내부에서는 큐처럼 동작하기 때문에 순서를 지킬 수 있는 것이다.
 
-<img src="/assets/images/infra/kafka/image-20210402213451205.png" alt="image-20210402213451205" style="zoom:25%;" />
+<img src="/assets/images/INFRA/kafka/image-20210402213451205.png" alt="image-20210402213451205" style="zoom:25%;" />
 
 
 
