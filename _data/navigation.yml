@@ -38,3 +38,7 @@ sidebar-index:
         url: /categories/infra/kafka
       - title: "Kubernetes"
         url: /categories/infra/kubernetes
+  - title: RANGUAGE
+    children:
+      - title: "React"
+        url: /categories/language/react
