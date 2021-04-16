@@ -38,6 +38,10 @@ sidebar-index:
         url: /categories/infra/kafka
       - title: "Kubernetes"
         url: /categories/infra/kubernetes
+  - title: DATA
+    children:
+      - title: "BigData"
+        url: /categories/data/bigdata
   - title: RANGUAGE
     children:
       - title: "React"
