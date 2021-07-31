@@ -44,5 +44,7 @@ sidebar-index:
         url: /categories/data/bigdata
   - title: RANGUAGE
     children:
+      - title: "Java"
+        url: /categories/language/java
       - title: "React"
         url: /categories/language/react
